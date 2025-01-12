@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Jornada Dev Eficiente/Máquina de Aprender.md",
+                "file": "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/12 - Evoluir via modificação pode ser mais fácil do que por extensão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Máquina de Aprender"
+              "title": "12 - Evoluir via modificação pode ser mais fácil do que por extensão"
             }
           }
         ]
@@ -179,17 +179,9 @@
   },
   "active": "90ac8f397c94adcc",
   "lastOpenFiles": [
-    "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/05 - Profundidade nas tecnologias do projeto.md",
-    "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/04 - Fluidez na utilização dos conceitos.md",
-    "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/03 - A relação entre tempo e código de qualidade.md",
-    "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/22 - Possível Item Guideline 02 -Testes automatizados.md",
-    "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/21 - Possível Item Guideline 01 - Métrica CDD.md",
+    "Cursos/Jornada Dev Eficiente/Engenharia de Requisitos para Devs/02 - Motivação e Conceitos fundamentais/01 - O impacto da Engenharia de Requisitos mal feita.md",
     "Cursos/Jornada Dev Eficiente/Roteiro de Evolução Dev + Eficiente.md",
-    "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/Jornada Dev Eficiente.md",
-    "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/Untitled.md",
-    "Cursos/Jornada Dev Eficiente/Mentorias.md",
-    "Cursos/Jornada Dev Eficiente/Engenharia de Requisitos para Devs/02 - Motivação e Conceitos fundamentais/05 - Um pouco sobre Requisitos Funcionais e Não Funcionais.md",
-    "Cursos/Jornada Dev Eficiente/Máquina de Aprender.md",
+    "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/21 - Possível Item Guideline 01 - Métrica CDD.md",
     "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/20 - Ter um guideline pode ser mais importante do que as práticas em si.md",
     "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/19 - Testes de qualidade para aumentar confiabilidade e confiança da equipe.md",
     "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/17 - Abrace o legado.md",
@@ -197,14 +189,22 @@
     "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/15 - Preciso mesmo de um monte de camadas (interrogação).md",
     "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/14 - Desafiando o senso comum - Classes estilo DTO podem ter métodos (interrogação).md",
     "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/13 - Acoplamento com Frameworks - Ainda é um problema (interrogação).md",
-    "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/12 - Evoluir via modificação pode ser mais fácil do que por extensão. Será (interrogação).md",
+    "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/12 - Evoluir via modificação pode ser mais fácil do que por extensão.md",
     "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/11 - Cognitive Driven Development(CDD) para facilitar entendimento do código.md",
     "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/10 - Vamos entrar em mais detalhes sobre Design.md",
-    "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/09 - A importância de aprofundar-se no negócio.md",
     "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/08 - Triturar Requisitos - Ponto de Vista de Pessoa Dev.md",
+    "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/09 - A importância de aprofundar-se no negócio.md",
     "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/07 - Triturar Requisitos - Ponto de Vista de Negócio.md",
+    "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/05 - Profundidade nas tecnologias do projeto.md",
     "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/06 - Domine sua IDE.md",
+    "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/04 - Fluidez na utilização dos conceitos.md",
+    "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/03 - A relação entre tempo e código de qualidade.md",
     "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/02 - Seja uma pessoa crítica.md",
+    "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)/01 - Intenção de escrever código com qualidade vem antes de seguir qualquer prática.md",
+    "Cursos/Jornada Dev Eficiente/Engenharia de Requisitos para Devs/01 - Introdução/01 - Motivo da Existência deste Curso.md",
+    "Cursos/Jornada Dev Eficiente/Engenharia de Requisitos para Devs/01 - Introdução/02 - É um curso de Engenharia de Requisitos formal (interrogação).md",
+    "Cursos/Jornada Dev Eficiente/Engenharia de Requisitos para Devs/01 - Introdução/03 - É um curso de Requisitos Ágeis (interrogação).md",
+    "Cursos/Jornada Dev Eficiente/Engenharia de Requisitos para Devs/02 - Motivação e Conceitos fundamentais/05 - Um pouco sobre Requisitos Funcionais e Não Funcionais.md",
     "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas/01 - Qualidade de código e software em aplicações modernas (Nova Versão)",
     "Cursos/Jornada Dev Eficiente/Jornada Dev Eficiente - Aulas",
     "Livros/00 - Roadmap.canvas",

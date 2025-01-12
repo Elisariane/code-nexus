@@ -1,0 +1,110 @@
+{
+  "nodes": [
+    {
+      "id": "2d1d37914800cc56",
+      "type": "text",
+      "text": "![[cover-dsa.png]]\n\t\t\tAlgoritmos e Estruturas de dados",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "x": -560,
+      "y": -680,
+      "width": 580,
+      "height": 600
+    },
+    {
+      "id": "c8b8401ec3592069",
+      "type": "file",
+      "file": "Files/cover-mathematics-for-computer-science.png",
+      "styleAttributes": {},
+      "x": -2159,
+      "y": -499,
+      "width": 783,
+      "height": 239
+    },
+    {
+      "id": "609f57d456fa90cb",
+      "type": "file",
+      "file": "Files/cover-fundamentos-matematicos.png",
+      "styleAttributes": {},
+      "x": -2440,
+      "y": 60,
+      "width": 281,
+      "height": 370
+    },
+    {
+      "id": "be99655b2e57b506",
+      "type": "file",
+      "file": "Files/cover-entendendo-algoritmos.png",
+      "styleAttributes": {},
+      "x": -640,
+      "y": 160,
+      "width": 287,
+      "height": 400
+    },
+    {
+      "id": "0ce7bf65cbb564ca",
+      "type": "file",
+      "file": "Files/cover-java.png",
+      "styleAttributes": {},
+      "x": 720,
+      "y": -593,
+      "width": 640,
+      "height": 427
+    },
+    {
+      "id": "6fe67667b5ba5dc9",
+      "type": "file",
+      "file": "Files/cover-java-para-iniciantes.png",
+      "styleAttributes": {},
+      "x": 720,
+      "y": 140,
+      "width": 294,
+      "height": 420
+    }
+  ],
+  "edges": [
+    {
+      "id": "3e104d0b456061cc",
+      "styleAttributes": {},
+      "fromNode": "c8b8401ec3592069",
+      "fromSide": "left",
+      "toNode": "609f57d456fa90cb",
+      "toSide": "top"
+    },
+    {
+      "id": "c64128d6f67a1279",
+      "styleAttributes": {},
+      "fromNode": "2d1d37914800cc56",
+      "fromSide": "left",
+      "toNode": "c8b8401ec3592069",
+      "toSide": "right"
+    },
+    {
+      "id": "23936291b5e6f6f9",
+      "styleAttributes": {},
+      "fromNode": "2d1d37914800cc56",
+      "fromSide": "bottom",
+      "toNode": "be99655b2e57b506",
+      "toSide": "top"
+    },
+    {
+      "id": "f9166cb37beb6258",
+      "styleAttributes": {},
+      "fromNode": "2d1d37914800cc56",
+      "fromSide": "right",
+      "toNode": "0ce7bf65cbb564ca",
+      "toSide": "left"
+    },
+    {
+      "id": "109a3d184929e8d4",
+      "styleAttributes": {},
+      "fromNode": "0ce7bf65cbb564ca",
+      "fromSide": "bottom",
+      "toNode": "6fe67667b5ba5dc9",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}
