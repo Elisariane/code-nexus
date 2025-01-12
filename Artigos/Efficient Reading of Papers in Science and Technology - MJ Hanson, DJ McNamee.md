@@ -1,9 +1,10 @@
 ---
 tags:
   - "#artigo"
+  - "#como-ler"
 link: https://www.cse.ust.hk/~weiwa/teaching/Fall16-COMP6611B/reading_list/EfficientReading.pdf
 Data: 2025-01-11
-Finalizado?:
+Finalizado?: true
 ---
 # Introdução 
 
