@@ -5,5 +5,7 @@
   "highlightr-plugin",
   "obsidian-icon-folder",
   "vscode-editor",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-admonition",
+  "execute-code"
 ]

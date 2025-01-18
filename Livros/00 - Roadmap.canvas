@@ -24,16 +24,6 @@
       "height": 239
     },
     {
-      "id": "609f57d456fa90cb",
-      "type": "file",
-      "file": "Files/cover-fundamentos-matematicos.png",
-      "styleAttributes": {},
-      "x": -2440,
-      "y": 60,
-      "width": 281,
-      "height": 370
-    },
-    {
       "id": "be99655b2e57b506",
       "type": "file",
       "file": "Files/cover-entendendo-algoritmos.png",
@@ -62,17 +52,19 @@
       "y": 140,
       "width": 294,
       "height": 420
+    },
+    {
+      "id": "ed7031cfe853bbc6",
+      "type": "file",
+      "file": "Livros/Java para Iniciantes/1 - Fundamentos da linguagem Java.md",
+      "x": 1280,
+      "y": 140,
+      "width": 360,
+      "height": 100,
+      "color": "4"
     }
   ],
   "edges": [
-    {
-      "id": "3e104d0b456061cc",
-      "styleAttributes": {},
-      "fromNode": "c8b8401ec3592069",
-      "fromSide": "left",
-      "toNode": "609f57d456fa90cb",
-      "toSide": "top"
-    },
     {
       "id": "c64128d6f67a1279",
       "styleAttributes": {},
@@ -104,6 +96,14 @@
       "fromSide": "bottom",
       "toNode": "6fe67667b5ba5dc9",
       "toSide": "top"
+    },
+    {
+      "id": "c54c368c03c67476",
+      "styleAttributes": {},
+      "fromNode": "6fe67667b5ba5dc9",
+      "fromSide": "right",
+      "toNode": "ed7031cfe853bbc6",
+      "toSide": "left"
     }
   ],
   "metadata": {}
